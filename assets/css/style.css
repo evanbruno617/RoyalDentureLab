@@ -136,7 +136,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: #13084f;
+  background: #371F76;
 }
 
 #header .logo {
@@ -409,7 +409,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #13084f;
+  background: #371F76;
 }
 
 #hero .container {
@@ -977,7 +977,7 @@ section {
 }
 
 .portfolio {
-  background-color: #13084f;
+  background-color: #371F76;
 }
 
 .portfolio #portfolio-flters li {
@@ -1701,7 +1701,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #13084f;
+  background: #371F76;
 }
 
 #footer .footer-newsletter {
